@@ -3,4 +3,4 @@
 
 A "Hello World" written in C++ with Visual Studio.
 
-This has been uploaded for archiving purposes.
+This project has been uploaded for archiving purposes.
